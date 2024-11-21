@@ -19,5 +19,8 @@ class Program
          Test test = new();
 
         test.Rest();
+
+        IfElse ifElse = new();
+        ifElse.Else();
     }
 }

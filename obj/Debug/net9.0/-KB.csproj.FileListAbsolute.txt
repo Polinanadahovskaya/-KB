@@ -12,3 +12,4 @@
 /Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Debug/net9.0/-KB.pdb
 /Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Debug/net9.0/-KB.genruntimeconfig.cache
 /Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Debug/net9.0/ref/-KB.dll
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Debug/net9.0/-KB.sourcelink.json
