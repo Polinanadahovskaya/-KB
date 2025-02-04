@@ -1,24 +1,24 @@
-﻿namespace _KB;
+﻿// namespace _KB;
 
-class Math
-{
+// class Math
+// {
 
-    int a = int.Parse(Console.ReadLine());
+//     int a = int.Parse(Console.ReadLine());
 
-    int b = int.Parse(Console.ReadLine()) ;
+//     int b = int.Parse(Console.ReadLine()) ;
     
-    public void MathCalc()
-    {
-        int c = a + b;
-        Console.WriteLine(c);
+//     public void MathCalc()
+//     {
+//         int c = a + b;
+//         Console.WriteLine(c);
 
-        int e = a - b;
-        Console.WriteLine(e);
+//         int e = a - b;
+//         Console.WriteLine(e);
 
-        int d = a * b;
-        Console.WriteLine(d);
+//         int d = a * b;
+//         Console.WriteLine(d);
 
-        double s = a / b;
-        Console.WriteLine(s);
-    }
-}
+//         double s = a / b;
+//         Console.WriteLine(s);
+//     }
+// }

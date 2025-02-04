@@ -1,0 +1,15 @@
+/Users/polinanadahovskaya/Desktop/sharp/-KB/bin/Release/net9.0/-KB
+/Users/polinanadahovskaya/Desktop/sharp/-KB/bin/Release/net9.0/-KB.deps.json
+/Users/polinanadahovskaya/Desktop/sharp/-KB/bin/Release/net9.0/-KB.runtimeconfig.json
+/Users/polinanadahovskaya/Desktop/sharp/-KB/bin/Release/net9.0/-KB.dll
+/Users/polinanadahovskaya/Desktop/sharp/-KB/bin/Release/net9.0/-KB.pdb
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.AssemblyInfoInputs.cache
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.AssemblyInfo.cs
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.csproj.CoreCompileInputs.cache
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.sourcelink.json
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.dll
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/refint/-KB.dll
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.pdb
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/-KB.genruntimeconfig.cache
+/Users/polinanadahovskaya/Desktop/sharp/-KB/obj/Release/net9.0/ref/-KB.dll

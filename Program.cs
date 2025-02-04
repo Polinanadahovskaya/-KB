@@ -1,26 +1,47 @@
-﻿namespace _KB;
+﻿// namespace _KB;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-    
-        Console.WriteLine("Hello, World!");
+// class Program
+// {
+//     static void Main(string[] args)
+//     { 
+//         // Console.WriteLine("Hello, World!");
+//         // Console.WriteLine("Hello, World!");
 
-        Variables variables = new();
+//         // Variables variables = new();
+//         // variables.Les();
 
-        variables.Les();
-
-         Math math = new();
-
-        math.MathCalc();
+//         //  Math math = new();
+//         // math.MathCalc();
 
 
-         Test test = new();
+//         //  Test test = new();
 
-        test.Rest();
+//         // test.Rest();
 
-        IfElse ifElse = new();
-        ifElse.Else();
-    }
-}
+//         // IfElse ifElse = new();
+//         // ifElse.Else();
+
+//         // Lesson lesson = new();
+//         // lesson.Test();
+
+//         // Array array = new();
+//         // array.Arr();
+        
+//         // Square square = new();
+//         // square.Calculation();
+
+//         //   Animal a = new();
+//         //  a.SetName("Hello");
+//         // a.PrintName();
+
+
+//         // Animal animal = new();
+//         // animal.PrintName();
+
+//         // Round round = new();
+//         // round.Cycle();
+
+//         Recursia recursia = new();
+//         recursia.Rec();
+//     }
+// }

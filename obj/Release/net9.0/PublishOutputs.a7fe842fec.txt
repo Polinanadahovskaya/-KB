@@ -1,0 +1,5 @@
+/Users/polinanadahovskaya/Desktop/sharp/-KB/publish/-KB
+/Users/polinanadahovskaya/Desktop/sharp/-KB/publish/-KB.dll
+/Users/polinanadahovskaya/Desktop/sharp/-KB/publish/-KB.deps.json
+/Users/polinanadahovskaya/Desktop/sharp/-KB/publish/-KB.runtimeconfig.json
+/Users/polinanadahovskaya/Desktop/sharp/-KB/publish/-KB.pdb
